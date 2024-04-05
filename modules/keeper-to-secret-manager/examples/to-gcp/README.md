@@ -3,7 +3,9 @@
 <!-- BEGINNING OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
 ## Requirements
 
-No requirements.
+| Name | Version |
+|------|---------|
+| <a name="requirement_secretsmanager"></a> [secretsmanager](#requirement\_secretsmanager) | 1.1.3 |
 
 ## Providers
 

@@ -50,7 +50,7 @@ No providers.
 | Name | Source | Version |
 |------|--------|---------|
 | <a name="module_keeper-reader"></a> [keeper-reader](#module\_keeper-reader) | dasmeta/shared/any//modules/keeper-reader | n/a |
-| <a name="module_secret"></a> [secret](#module\_secret) | ../gcp-secret | n/a |
+| <a name="module_secret"></a> [secret](#module\_secret) | dasmeta/modules/google//modules/secret | 1.4.0 |
 
 ## Resources
 
